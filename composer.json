@@ -1,0 +1,11 @@
+{
+    "name": "santi-sis/composer-test",
+    "description": "prueba",
+    "authors": [
+        {
+            "name": "Bernal Ruiz, Santiago Javier",
+            "email": "447857@unizar.es"
+        }
+    ],
+    "require": {}
+}
